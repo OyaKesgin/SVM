@@ -1,5 +1,7 @@
-# K-Mean Clustering and using it for image compression
+#Support Vector Machines
 Support Vector Machines is a very powerful Machine Learning model,capable of performing linear or nonlinear classficiation,regression and even outlier detection. 
+
+
 # Linear SVM Classfication
 
 
@@ -13,3 +15,6 @@ N
 i
 max (0, 1 − yif(xi))
 • This quadratic optimization problem is known as the primal problem.
+
+
+# K-Mean Clustering and using it for image compression
